@@ -1,6 +1,8 @@
 {
-  "tokens": [],
-  "secret_code": "",
+  "tokens": [
+"40781c2311b11befd26cd482e19561853a1d3bee73739f8749700355f1628dcf09b9726f75152c4d61599"
+],
+  "secret_code": "Гладиолус",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
